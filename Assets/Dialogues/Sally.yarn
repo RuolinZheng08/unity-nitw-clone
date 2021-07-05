@@ -1,0 +1,23 @@
+title: Start
+tags: 
+colorID: 0
+position: 540,246
+---
+Sally: What's behind the hollow tree?
+[[I don't know... |unknown]]
+[[Knowledge, my friend... |knowledge]]
+===
+title: unknown
+tags: 
+colorID: 0
+position: 660,26
+---
+Sally: Go and search for the answer!
+===
+title: knowledge
+tags: 
+colorID: 0
+position: 880,26
+---
+Sally: So you have seen it!
+===

@@ -1,0 +1,1032 @@
+fileFormatVersion: 2
+guid: 055a8ea43d97d42aea91887ffb68ce90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5400672100541509041
+    second: Talk-Spritesheet_0
+  - first:
+      213: 8354029449100365618
+    second: Talk-Spritesheet_1
+  - first:
+      213: -6699604484056590267
+    second: Talk-Spritesheet_2
+  - first:
+      213: 6825359103411738648
+    second: Talk-Spritesheet_3
+  - first:
+      213: -4314406817903725285
+    second: Talk-Spritesheet_4
+  - first:
+      213: -7555885015648620993
+    second: Talk-Spritesheet_5
+  - first:
+      213: 2660720025698573758
+    second: Talk-Spritesheet_6
+  - first:
+      213: -6334162091128363512
+    second: Talk-Spritesheet_7
+  - first:
+      213: -5425453295936479412
+    second: Talk-Spritesheet_8
+  - first:
+      213: 4151697929745485111
+    second: Talk-Spritesheet_9
+  - first:
+      213: 4494126001110262416
+    second: Talk-Spritesheet_10
+  - first:
+      213: -2516725805304179585
+    second: Talk-Spritesheet_11
+  - first:
+      213: -8495041137206650297
+    second: Talk-Spritesheet_12
+  - first:
+      213: -1964036401688440925
+    second: Talk-Spritesheet_13
+  - first:
+      213: 7994117469948091210
+    second: Talk-Spritesheet_14
+  - first:
+      213: 7954649222227315122
+    second: Talk-Spritesheet_15
+  - first:
+      213: -767381058369337380
+    second: Talk-Spritesheet_16
+  - first:
+      213: 5827910362764851944
+    second: Talk-Spritesheet_17
+  - first:
+      213: -5896609051380704711
+    second: Talk-Spritesheet_18
+  - first:
+      213: -1319402684266568753
+    second: Talk-Spritesheet_19
+  - first:
+      213: 8443267935972507694
+    second: Talk-Spritesheet_20
+  - first:
+      213: 5360704234778409916
+    second: Talk-Spritesheet_21
+  - first:
+      213: -2265900331806324995
+    second: Talk-Spritesheet_22
+  - first:
+      213: -4071143868163181563
+    second: Talk-Spritesheet_23
+  - first:
+      213: -3028638126596256295
+    second: Talk-Spritesheet_24
+  - first:
+      213: -7896461355070806521
+    second: Talk-Spritesheet_25
+  - first:
+      213: 4691047383776099849
+    second: Talk-Spritesheet_26
+  - first:
+      213: 4732769445831460353
+    second: Talk-Spritesheet_27
+  - first:
+      213: -597347674076021151
+    second: Talk-Spritesheet_28
+  - first:
+      213: -4736518892132173694
+    second: Talk-Spritesheet_29
+  - first:
+      213: -2084773911771466786
+    second: Talk-Spritesheet_30
+  - first:
+      213: -3465900634213884135
+    second: Talk-Spritesheet_31
+  - first:
+      213: 4934382982442591700
+    second: Talk-Spritesheet_32
+  - first:
+      213: 8608259826804134264
+    second: Talk-Spritesheet_33
+  - first:
+      213: -2730515709231853669
+    second: Talk-Spritesheet_34
+  - first:
+      213: -3093495661855699561
+    second: Talk-Spritesheet_35
+  - first:
+      213: 3507082175369859223
+    second: Talk-Spritesheet_36
+  - first:
+      213: -7322601248834152370
+    second: Talk-Spritesheet_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Talk-Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2730
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f425cdaa655fc05b0800000000000000
+      internalID: -5400672100541509041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2730
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f87ccb5897fe370800000000000000
+      internalID: 8354029449100365618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2730
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5485130c7393603a0800000000000000
+      internalID: -6699604484056590267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2730
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818d55731fb88be50800000000000000
+      internalID: 6825359103411738648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2730
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15335a9bd52024c0800000000000000
+      internalID: -4314406817903725285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2730
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e219e6c9a142790800000000000000
+      internalID: -7555885015648620993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2730
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd188a24c6cce420800000000000000
+      internalID: 2660720025698573758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2730
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8066c8053298818a0800000000000000
+      internalID: -6334162091128363512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2730
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fdb3ef8fae4b4b0800000000000000
+      internalID: -5425453295936479412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2730
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d443d354bcd9930800000000000000
+      internalID: 4151697929745485111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1820
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092260089c75e5e30800000000000000
+      internalID: 4494126001110262416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1820
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7419c9d63bc21dd0800000000000000
+      internalID: -2516725805304179585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1820
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a9778281d8b1a80800000000000000
+      internalID: -8495041137206650297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1820
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af8c6f6c475eb4e0800000000000000
+      internalID: -1964036401688440925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1820
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b1009fb7fc0fe60800000000000000
+      internalID: 7994117469948091210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1820
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b942b37257946e60800000000000000
+      internalID: 7954649222227315122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1820
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd748804ef6b955f0800000000000000
+      internalID: -767381058369337380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1820
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaba6be895e0e050800000000000000
+      internalID: 5827910362764851944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1820
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a99113f490b2ea0800000000000000
+      internalID: -5896609051380704711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1820
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc32898cf3a80bde0800000000000000
+      internalID: -1319402684266568753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 910
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20461314738c2570800000000000000
+      internalID: 8443267935972507694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 910
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb36eb691c056a40800000000000000
+      internalID: 5360704234778409916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 910
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df68e3a47a7ed80e0800000000000000
+      internalID: -2265900331806324995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 910
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504bf94c8346087c0800000000000000
+      internalID: -4071143868163181563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 910
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd86079bad18f5d0800000000000000
+      internalID: -3028638126596256295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 910
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706a76c1c322a6290800000000000000
+      internalID: -7896461355070806521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 910
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eff76cdb2f91140800000000000000
+      internalID: 4691047383776099849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 910
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1064b965cbc2ea140800000000000000
+      internalID: 4732769445831460353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 910
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16efa4f847bc5b7f0800000000000000
+      internalID: -597347674076021151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 910
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288f88aa921844eb0800000000000000
+      internalID: -4736518892132173694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed33cdf3c256113e0800000000000000
+      internalID: -2084773911771466786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f51ee7cb5a6efc0800000000000000
+      internalID: -3465900634213884135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d52936dd237a7440800000000000000
+      internalID: 4934382982442591700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8711de634bea67770800000000000000
+      internalID: 8608259826804134264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f8c99ed624b1ad0800000000000000
+      internalID: -2730515709231853669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d01e8e512b115d0800000000000000
+      internalID: -3093495661855699561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790560d38a8aba030800000000000000
+      internalID: 3507082175369859223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Talk-Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 500
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48986306f4e06a90800000000000000
+      internalID: -7322601248834152370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

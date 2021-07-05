@@ -15,7 +15,7 @@ public class PlayerController2D : MonoBehaviour
     [Header("Character")]
     [SerializeField] Animator animator = null;
     [SerializeField] Transform puppet = null;
-    //[SerializeField] PlayerAudio audioPlayer = null;
+    [SerializeField] PlayerAudio audioPlayer = null;
 
     [Header("Movement")]
     [SerializeField] float acceleration = 0.0f;
@@ -105,7 +105,7 @@ public class PlayerController2D : MonoBehaviour
         Vector2 velocity = controllerRigidbody.velocity;
         // Apply acceleration directly as we'll want to clamp
         // prior to assigning back to the body.
-        velocity += movementInput * acceleration * Time.fixedDeltaTime;
+        velocity += movementInput * acceleration * Time.deltaTime;
 
         // We've consumed the movement, reset it.
         movementInput = Vector2.zero;
@@ -121,7 +121,7 @@ public class PlayerController2D : MonoBehaviour
         animator.SetFloat(animatorRunningSpeed, horizontalSpeedNormalized);
 
         // Play audio
-        //audioPlayer.PlaySteps(groundType, horizontalSpeedNormalized);
+        audioPlayer.PlaySteps(groundType, horizontalSpeedNormalized);
     }
 
     private void UpdateJump()
@@ -143,7 +143,7 @@ public class PlayerController2D : MonoBehaviour
             isJumping = true;
 
             // Play audio
-            //audioPlayer.PlayJump();
+            audioPlayer.PlayJump();
         }
 
         // Landed
@@ -161,7 +161,7 @@ public class PlayerController2D : MonoBehaviour
             isFalling = false;
 
             // Play audio
-            //audioPlayer.PlayLanding(groundType);
+            audioPlayer.PlayLanding(groundType);
         }
     }
 

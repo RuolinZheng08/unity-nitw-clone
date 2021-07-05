@@ -400,7 +400,6 @@ Transform:
   m_Children:
   - {fileID: 509063664}
   - {fileID: 775537611}
-  - {fileID: 737619072}
   m_Father: {fileID: 689455278}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -746,6 +745,7 @@ GameObject:
   - component: {fileID: 519420029}
   - component: {fileID: 519420030}
   - component: {fileID: 519420033}
+  - component: {fileID: 519420034}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -884,6 +884,18 @@ MonoBehaviour:
   m_CameraActivatedEvent:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &519420034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b74cfe1c8aed43b1b99d20a577434c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &547714701
 GameObject:
   m_ObjectHideFlags: 3
@@ -1015,6 +1027,7 @@ GameObject:
   - component: {fileID: 737619072}
   - component: {fileID: 737619074}
   - component: {fileID: 737619073}
+  - component: {fileID: 737619075}
   m_Layer: 0
   m_Name: Background Houses
   m_TagString: Untagged
@@ -1033,8 +1046,8 @@ Transform:
   m_LocalPosition: {x: -11.695523, y: 8.780806, z: 0}
   m_LocalScale: {x: 1, y: 1.5925, z: 1}
   m_Children: []
-  m_Father: {fileID: 277958378}
-  m_RootOrder: 2
+  m_Father: {fileID: 1010261166}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &737619073
 MonoBehaviour:
@@ -1105,6 +1118,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &737619075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 737619071}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71dc837c3f9d040a3955b36d5e55dbfb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parallaxFactor: 0.1
 --- !u!1 &775537610
 GameObject:
   m_ObjectHideFlags: 0
@@ -1246,6 +1272,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1010261166}
+  - component: {fileID: 1010261167}
   m_Layer: 0
   m_Name: Background
   m_TagString: Untagged
@@ -1263,10 +1290,24 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 737619072}
   m_Father: {fileID: 689455278}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1010261167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1010261165}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cffd467fd0ec94d55b9a11d736e2bdc8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parallaxCamera: {fileID: 519420034}
 --- !u!1 &1054292812
 GameObject:
   m_ObjectHideFlags: 0

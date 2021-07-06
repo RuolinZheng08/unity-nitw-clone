@@ -1,4 +1,5 @@
 using UnityEngine;
+using Yarn.Unity;
 
 public enum GroundType
 {
@@ -44,6 +45,8 @@ public class PlayerController2D : MonoBehaviour
     private int animatorGroundedBool;
     private int animatorRunningSpeed;
 
+    private DialogueRunner dialogueRunner = null;
+
     void Start()
     {
         controllerRigidbody = GetComponent<Rigidbody2D>();
@@ -54,13 +57,15 @@ public class PlayerController2D : MonoBehaviour
         animatorGroundedBool = Animator.StringToHash("grounded");
         animatorRunningSpeed = Animator.StringToHash("speed");
 
+        dialogueRunner = FindObjectOfType<DialogueRunner>();
     }
 
     void Update()
     {
         // Remove all player control when we're in dialogue
-        //if (FindObjectOfType<DialogueRunner>().IsDialogueRunning == true)
-        //    return;
+        if (dialogueRunner.IsDialogueRunning) {
+            return;
+        }
 
         // Horizontal movement
         float moveHorizontal = Input.GetAxis("Horizontal");
